@@ -1,0 +1,182 @@
+h1
+{
+	text-shadow: 12px 6px 8px #002844; 
+	color: #F3FC94;
+	font-style: italic;
+	text-align: center;
+	text-decoration:underline; 
+}
+.GlavMenu
+{
+	list-style-type: none;
+	padding-left: 0;
+	margin: 0 auto;
+	font-size: 100%;
+	text-align: center;
+	font-style: italic;
+	z-index: 100;
+	position: relative;
+}
+.GlavMenu a
+{
+	text-decoration:none;
+	font-family: sans-serif;
+	color: #9D5AF6;
+	display:inline-block;
+	padding: 10px 20px;
+	background-color: #002844;
+	border-bottom: 5px solid #F3FC94;
+}
+.GlavMenu li
+{
+display: inline;
+}
+
+.News {
+	position: relative;
+}
+
+.Menu2
+{
+	display: none;
+}
+
+.News:hover .Menu2
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: absolute;
+	left: 0;
+}
+#N1:hover  a
+{
+	color: white;
+}
+#N2:hover  a
+{
+	color: white;
+}
+#N3:hover  a
+{
+	color: white;
+}
+#N4:hover  a
+{
+	color: white;
+}
+.Meta
+{
+	position: relative;
+}
+.Menu3
+{
+	display: none;
+}
+.Meta:hover .Menu3
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: absolute;
+	left: 0;
+}
+#M1:hover  a
+{
+	color: white;
+}#M2:hover  a
+{
+	color: white;
+}
+#M3:hover  a
+{
+	color: white;
+}
+.Legends
+{
+	position: relative;
+}
+.Menu4
+{
+	display: none;
+}
+.Legends:hover .Menu4
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: absolute;
+	left: 0;
+}
+#L1:hover a
+{
+	color: white;
+}
+#L2:hover a
+{
+	color: white;
+}
+#L3:hover a
+{
+	color: white;
+}
+.Guides
+{
+	position: relative;
+}
+.Menu5
+{
+	display: none;
+}
+.Guides:hover .Menu5
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: absolute;
+	left: 0;
+}
+#G1:hover  a
+{
+	color: white;
+}
+#G2:hover  a
+{
+	color: white;
+}
+#G3:hover  a
+{
+	color: white;
+}
+.AboutUs
+{
+	position: relative;
+}
+.Menu6
+{
+	display: none;
+}
+.AboutUs:hover .Menu6
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: absolute;
+	left: 0;
+}
+#U1:hover  a
+{
+	color: white;
+}
+#U2:hover  a
+{
+	color: white;
+}
+
+body
+{
+	background: url(rabstol_net_hearthstone_05.jpg );
+	background-size: 100%;
+}
+
+
